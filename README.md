@@ -1,14 +1,12 @@
-                                                            ### Hi, I’m @Beyound3d 
-
-
-                                                                
+  ### Hi, I’m @Beyound3d 
+  
 * 🌱 I’m currently learning MERN
 * 🔭 I’m currently working on Car Web App
 * 💞️ I’m looking to collaborate on Open Source
 * 📫 How to reach me tanukaushik1608@gmail.com
 * ⚡ Fun fact I am Ambrosial
 
-
+  <hr>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tkaushik2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/tanu-kaushik-b00862240) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@tannukaushik7822) 
@@ -25,9 +23,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=beyound3d&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=beyound3d&icon=0&color=0)](https://visitcount.itsvg.in)
