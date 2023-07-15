@@ -1,4 +1,4 @@
-  ### Hi, I’m @Beyound3d 
+  ### Hi there, I'm Tanu Kaushik👦,
   
 * 🌱 I’m currently learning MERN
 * 🔭 I’m currently working on Car Web App
