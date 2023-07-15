@@ -3,7 +3,7 @@
 * 🔭 I’m currently working on Car Web App
 * 💞️ I’m looking to collaborate on Open Source
 * 📫 How to reach me tanukaushik1608@gmail.com
-* ⚡ Fun fact I am Ambrosial
+* ⚡ Fun fact: I am Ambrosial
  <hr>
 
 ## 🌐 Socials:
