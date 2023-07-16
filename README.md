@@ -7,15 +7,10 @@
 <p align="left"> <a href="https://twitter.com/tanukau93171212" target="blank"><img src="https://img.shields.io/twitter/follow/tanukau93171212?logo=twitter&style=for-the-badge" alt="tanukau93171212" /></a> </p>
 
 - 🔭 I’m currently working on **Car web app**
-
 - 🌱 I’m currently learning **MERN**
-
 - 👯 I’m looking to collaborate on **Open source**
-
 - 💬 Ask me about **Frontend-resources**
-
 - 📫 How to reach me **tanukaushik1608@gmail.com**
-
 - ⚡ Fun fact **I am Ambrosial.**
 
 <h3 align="left">Connect with me:</h3>
