@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **MERN** and **Automation**
 - 👯 I’m looking to collaborate on **Open source**
 - 💬 Ask me about **Frontend-resources**
-- 📫 How to reach me **tanukaushik1608@gmail.com**
+- 📫 How to reach me **developertanukaushik@gmail.com**
 - ⚡ Fun fact **I am Ambrosial.**
 - 🧍‍♀️ Work for **https://share.snapchat.com/m/200pa7HH?share_id=CbTQn0iLq0w&locale=en-GB** and **VueNow**
 
