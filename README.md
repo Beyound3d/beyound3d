@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanu kaushik</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
-<img align="left" alt="coading" width:"100" src="![beyound3d](https://github.com/Beyound3d/beyound3d/assets/129869652/465f78a6-b772-49d4-b344-fadbd858c661)">
+<img align="left" alt="coading" width:"100" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beyound3d&label=Profile%20views&color=0e75b6&style=flat" alt="beyound3d" /> </p>
 
