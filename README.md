@@ -12,7 +12,7 @@
 - 💬 Ask me about **Frontend-resources**
 - 📫 How to reach me **developertanukaushik@gmail.com**
 - ⚡ Fun fact **I am Ambrosial.**
-- 🧍‍♀️ Work for **VueNow**
+- 🧍‍♀️ Working for **VueNow**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
