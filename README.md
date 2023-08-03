@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Car web app**
 - 🌱 I’m currently learning **MERN** and **CyberSecurity**
 - 👯 I’m looking to collaborate on **Open source Projects**
-- 💬 Ask me about **Frontend-resources**
+- 💬 Ask me about **Projects**
 - 📫 How to reach me **developertanukaushik@gmail.com**
 - ⚡ Fun fact **I am Ambrosial.**
 - 🧍‍♀️ Working for **VueNow**
