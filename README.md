@@ -8,4 +8,18 @@
   </a>
 </h1>
 
+<br />
+<!-- about me -->
+<p align="center">
+  Hi, I recently did Bachelor's in Computer Science 💻 degree enclosed hereby().
+  <br />
+  <br />
+  🎓 Learner, Coder👩‍💻 and Game Lover.
+  <br />
+  💻 I love to learn new technologies and frameworks and playing games.
+  <br />
+  Serching for a good package job
+  <br />
+</p>
+
 
