@@ -54,7 +54,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/beyound3d/beyound3d/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/beyound3d/beyound3d/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/beyound3d/beyound3d/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+    <img src="https://github.com/Beyound3d/beyound3d/blob/main/.github/workflows/snake.yml" alt="github-snake" />
   </picture>
   <br />
   <br />
