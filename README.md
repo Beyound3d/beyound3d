@@ -48,6 +48,7 @@
 </div>
 
 <!-- snake graph -->
+<!--
 <div align="center">
   <h2>🐍 contribution 🐍</h2>
   <br />
@@ -60,4 +61,5 @@
   <br />
   <br />
 </div>
+-->
 
