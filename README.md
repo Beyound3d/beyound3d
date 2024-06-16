@@ -42,7 +42,7 @@
   <!-- twitter -->
   <a href="https://twitter.com/tanukau93171212" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
   <!-- gmail -->
-  <a href="developertanukaushik@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:developertanukaushik@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!-- linkedin -->
   <a href="https://www.linkedin.com/in/tanu-kaushik-b00862240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
