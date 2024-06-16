@@ -68,3 +68,5 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring:+technical👩‍💻+fields!;&center=true&size=30">
   </a>
 </h3>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=beyound3d)](https://github.com/beyound3d/github-readme-stats)
