@@ -22,4 +22,6 @@
   <br />
 </p>
 
+[![Tanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beyound3d)](https://github.com/Beyound3d/github-readme-stats)
+
 
