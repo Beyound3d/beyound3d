@@ -65,6 +65,6 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring:+👩‍💻+Web+App+Devops+MERN+DataAnalysis+Blockchain+Cloud+UIandUX+CyberSecurity!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring:+👩‍💻+different+field+in+ComputerScience;&center=true&size=30">
   </a>
 </h3>
