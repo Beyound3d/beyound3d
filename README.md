@@ -22,6 +22,9 @@
   <br />
 </p>
 
+
+<img src="https://github.com/Beyound3d/beyound3d/blob/main/assets/readme.gif" align="right" width="250" />
+
 [![Tanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beyound3d)](https://github.com/Beyound3d/github-readme-stats)
 
 <a href="https://github.com/Beyound3d/github-readme-activity-graph" title="Go to Source">
