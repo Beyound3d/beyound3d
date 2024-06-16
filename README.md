@@ -47,4 +47,17 @@
   <a href="https://www.linkedin.com/in/tanu-kaushik-b00862240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<!-- snake graph -->
+<div align="center">
+  <h2>🐍 contribution 🐍</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/beyound3d/beyound3d/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/beyound3d/beyound3d/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/beyound3d/beyound3d/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
+</div>
 
