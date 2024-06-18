@@ -71,3 +71,19 @@
 
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/beyound3d/github-readme-stats) -->
 
+# Awesome REPOs [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+> A curated list of subjects i learned and practise in Computer Science
+
+
+   > | Repository               | Instructions                                                                                          |
+   > | ------------------------ | ----------------------------------------------------------------------------------------------------- |
+   > | **[C++]**                | `cargo install zoxide --locked`                                                                       |
+   > | **[Java]**               | `brew install zoxide`                                                                                 |
+   > |[data structure]          | `asdf plugin add zoxide https://github.com/nyrst/asdf-zoxide.git` <br /> `asdf install zoxide latest` |
+   > | [Algorithims]            | `conda install -c conda-forge zoxide`                                                                 |
+   > | **[Operating System]**   | `port install zoxide`                                                                                 |
+   > | **[Computer Networks]**  | `nix-env -iA nixpkgs.zoxide`                                                                          |
+   > |     **[IT]**             |                                                                                                       |
+   > |  [DBMS]                  |                                                                                                       |
+   > |  [SDLC]|                 |                                                                                                       |
+
