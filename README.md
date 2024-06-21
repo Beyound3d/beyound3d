@@ -87,3 +87,37 @@
    > |  [DBMS]                  |                                                                                                       |
    > |  [SDLC]|                 |                                                                                                       |
 
+
+## 🛠️ Skills
+- **Programming Languages**: JavaScript, Python, Java, TypeScript
+- **Web Development**: HTML, CSS, React, Node.js
+- **Database Management**: MySQL, MongoDB
+- **Version Control**: Git, GitHub
+- **Tools & Platforms**: Docker, AWS, Jenkins
+
+## 📊 GitHub Stats
+![Beyound3d's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyound3d&show_icons=true&theme=radical)
+
+## 🔥 Contributions
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=beyound3d&theme=dracula)
+
+## 🎨 Animations
+![Animation of a girl working on a laptop](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+## 📈 Activity Graph
+![GitHub Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+> A dynamically generated activity graph to show my GitHub activities over the last 31 days[[2](https://github.com/Ashutosh00710/github-readme-activity-graph)].
+
+## 🎮 Fun Addition: Snake Game
+![Snake Game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+> A fun snake game generated from my GitHub contributions[[3](https://github.com/topics/github-profile-readme)][[4](https://ericagrundy.medium.com/how-to-add-a-snake-game-to-your-contribution-graph-on-github-e4b5fd295775)].
+
+## 📝Note:
+I am always eager to learn new technologies and work on exciting projects. If you have any suggestions, collaboration ideas, or just want to chat about tech, feel free to reach out!
+
+
+
+---
+⭐️ From [beyound3d](https://github.com/beyound3d)
+
+
