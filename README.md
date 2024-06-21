@@ -96,9 +96,6 @@
 - **Version Control**: Git, GitHub
 - **Tools & Platforms**: Docker, AWS, Jenkins
 
-## 📈 Activity Graph
-![GitHub Activity Graph](https://github.com/beyound3d/github-readme-activity-graph)
-> A dynamically generated activity graph to show my GitHub activities over the last 31 days[[2](https://github.com/beyound3d/github-readme-activity-graph)].
 
 ## 🎮 Fun Addition: Snake Game
 ![Snake Game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
