@@ -25,7 +25,8 @@
 
 <img src="https://github.com/Beyound3d/beyound3d/blob/main/assets/readme.gif" align="right" width="250" />
 
-[![Tanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beyound3d)](https://github.com/Beyound3d/github-readme-stats)
+<!-- [![Tanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beyound3d)](https://github.com/Beyound3d/github-readme-stats) -->
+![Beyound3d's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyound3d&show_icons=true&theme=radical)
 
 <a href="https://github.com/Beyound3d/github-readme-activity-graph" title="Go to Source">
     <picture>
@@ -95,18 +96,9 @@
 - **Version Control**: Git, GitHub
 - **Tools & Platforms**: Docker, AWS, Jenkins
 
-## 📊 GitHub Stats
-![Beyound3d's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyound3d&show_icons=true&theme=radical)
-
-## 🔥 Contributions
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=beyound3d&theme=dracula)
-
-## 🎨 Animations
-![Animation of a girl working on a laptop](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
 ## 📈 Activity Graph
-![GitHub Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-> A dynamically generated activity graph to show my GitHub activities over the last 31 days[[2](https://github.com/Ashutosh00710/github-readme-activity-graph)].
+![GitHub Activity Graph](https://github.com/beyound3d/github-readme-activity-graph)
+> A dynamically generated activity graph to show my GitHub activities over the last 31 days[[2](https://github.com/beyound3d/github-readme-activity-graph)].
 
 ## 🎮 Fun Addition: Snake Game
 ![Snake Game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
