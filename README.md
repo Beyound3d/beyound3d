@@ -89,6 +89,21 @@
    > |  [SDLC]|                 |                                                                                                       |
 
 
+# DSEP subjects:
+   > | Repository                             | Instructions                                                                                          |
+   > | ------------------------               | ----------------------------------------------------------------------------------------------------- |
+   > |data analysis and visulization          | `cargo install zoxide --locked`                                                                       |
+   > | sustem programming                     | `brew install zoxide`                                                                                 |
+   > |combinatorial optimization              | `asdf plugin add zoxide https://github.com/nyrst/asdf-zoxide.git` <br /> `asdf install zoxide latest` |
+   > | digital image processing               | `conda install -c conda-forge zoxide`                                                                 |
+   > | information security                   | `port install zoxide`                                                                                 |
+   > | advanced algorithims                   | `nix-env -iA nixpkgs.zoxide`                                                                          |
+   > |     unix network programming           |                                                                                                       |
+   > |  web design                            |                                                                                                       |
+   > |  android                               |                                                                                                       |
+   > | python                                 |                                                                                                       |
+   > | R                                      |                                                                                                       |
+
 ## 🛠️ Skills
 - **Programming Languages**: JavaScript, Python, Java, TypeScript
 - **Web Development**: HTML, CSS, React, Node.js
