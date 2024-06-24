@@ -13,4 +13,6 @@
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
+![Google Analytics](https://upload.wikimedia.org/wikipedia/commons/3/3a/Google_Analytics_logo.svg)
+
 
