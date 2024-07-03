@@ -11,7 +11,9 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I recently did Bachelor's in Computer Science 💻 degree enclosed hereby().
+      hi!   me A pixelated unicorn 
+  <br/>
+   I recently did Bachelor's in Computer Science 💻 degree enclosed hereby().
   <br />
   <br />
   🎓 Learner, Coder👩‍💻 and Game Lover.
