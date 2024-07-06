@@ -24,7 +24,7 @@
   <br />
 </p>
 
-<img src="https://github.com/Beyound3d/beyound3d/blob/main/cs.gif" href="[Annexure-83. (BSc(H)-Computer Science) (2).pdf](https://github.com/user-attachments/files/16115152/Annexure-83.BSc.H.-Computer.Science.2.pdf)" align="left" width="250"/>
+[![Sample Image](https://github.com/Beyound3d/beyound3d/blob/main/cs.gif)](https://github.com/Beyound3d/beyound3d/blob/main/Annexure-83.%20(BSc(H)-Computer%20Science)%20(2).pdf)
 <img src="https://github.com/Beyound3d/beyound3d/blob/main/assets/readme.gif" align="right" width="250" />
 
 <!-- [![Tanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beyound3d)](https://github.com/Beyound3d/github-readme-stats) -->
@@ -126,7 +126,7 @@ I am always eager to learn new technologies and work on exciting projects. If yo
 ---
 ⭐️ From [beyound3d](https://github.com/beyound3d)
 
-[![Sample Image](https://github.com/Beyound3d/beyound3d/blob/main/cs.gif)](https://github.com/Beyound3d/beyound3d/blob/main/Annexure-83.%20(BSc(H)-Computer%20Science)%20(2).pdf)
+
 
 
 
