@@ -151,14 +151,19 @@
     |               Python                   |                                                                                           |
     |                   R                    |                                                                                           |
 
-  <h4 aligh="center">Ids:</h4>
+  <h4 align="center">Ids:</h4>
+  <img src="https://github.com/Beyound3d/beyound3d/blob/main/icons/AndroidStudio-Dark.svg"/>
+  <img src=""/>
+  <img src=""/>
+  <img src=""/>
   <h4 align="center">Languages:</h4>
-  <h4 aligh="center">Designing Tools</h4>
-  <h4 aligh="center">Version Control</h4>
-  <h4 aligh="center">Frameworks</h4>
-  <h4 aligh="center">Library</h4>
-  <h4 aligh="center">Database</h4>
-    <h4 aligh="center">Tools & Platforms</h4>
+  <h4 align="center">Designing Tools</h4>
+  <h4 align="center">Version Control</h4>
+  <h4 align="center">Frameworks</h4>
+  <h4 align="center">Library</h4>
+  <h4 align="center">Database</h4>
+    <h4 align="center">Tools & Platforms</h4>
+    <img src="https://github.com/Beyound3d/beyound3d/blob/main/icons/AWS-Dark.svg"/>
 - **Programming Languages**: JavaScript, Python, Java, TypeScript
 - **Web Development**: HTML, CSS, React, Node.js
 - **Database Management**: MySQL, MongoDB
