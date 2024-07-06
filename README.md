@@ -116,22 +116,26 @@
 
  
    <h1 align="center">Awesome REPOs </h1>
+   <p align="center">
+   <a href="https://github.com/badges/awesome-badges">
+    <img src="https://img.shields.io/badge/awesome-badge-green.svg">
+  </a>
+  </p>
   <p align="center">A curated list of subjects i learned and practise in Computer Science</p>
-  [![Awesome](https://img.shields.io/badge/Awesome-%E2%AD%90-blueviolet.svg)](https://github.com/sindresorhus/awesome)
 
-    <div align="center">
+    
       
-    |      Repository          |                                            Instructions                                               |
+    |         Repository       |                                            Instructions                                               |
     | ------------------------ | ----------------------------------------------------------------------------------------------------- |
-    |   **[pluspluscourse]**   |                     `git clone https://github.com/Beyound3d/pluspluscourse.git`                       |
-    |   88[coffee-Journey]**   |                     `git clone https://github.com/Beyound3d/coffee-Journey.git`                       |
+    |      pluspluscourse      |                     `git clone https://github.com/Beyound3d/pluspluscourse.git`                       |
+    |      coffee-Journey      |                     `git clone https://github.com/Beyound3d/coffee-Journey.git`                       |
     |           DSA            |                               `https://github.com/Beyound3d/DSA.git`                                  | 
     |       Operating System   | `port install zoxide`                                                                                 |
     | **[Computer Networks]**  | `nix-env -iA nixpkgs.zoxide`                                                                          |
     |     **[IT]**             |                                                                                                       |
     |  [DBMS]                  |                                                                                                       |
     |       SDLC-manager       |                     `git clone https://github.com/Beyound3d/SDLC-manager.git`                         |
-    </div>
+    
 
 
 # DSEP subjects:
