@@ -23,7 +23,7 @@
   Serching for a good package job
   <br />
    <a href="">
-    <img src="https://github.com/Beyound3d/beyound3d/blob/main/cbse.png" alt="Sample Image" width="200"/>
+    <img src="https://github.com/Beyound3d/beyound3d/blob/main/cbse.png" alt="Sample Image" />
   </a>
   <p>10th</p>
 </p>
