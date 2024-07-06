@@ -193,17 +193,12 @@
 
 
 
-## 🎮 Fun Addition: Snake Game
+<!-- ## 🎮 Fun Addition: Snake Game
 ![Snake Game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-> A fun snake game generated from my GitHub contributions[[3](https://github.com/topics/github-profile-readme)][[4](https://ericagrundy.medium.com/how-to-add-a-snake-game-to-your-contribution-graph-on-github-e4b5fd295775)].
+> A fun snake game generated from my GitHub contributions[[3](https://github.com/topics/github-profile-readme)][[4](https://ericagrundy.medium.com/how-to-add-a-snake-game-to-your-contribution-graph-on-github-e4b5fd295775)].-->
 
-## 📝Note:
-I am always eager to learn new technologies and work on exciting projects. If you have any suggestions, collaboration ideas, or just want to chat about tech, feel free to reach out!
+<p align="center">I am always eager to learn new technologies and work on exciting projects. If you have any suggestions, collaboration ideas, or just want to chat about tech, feel free to reach out!</p>
 
-
-
----
-⭐️ From [beyound3d](https://github.com/beyound3d)
 
 
 
