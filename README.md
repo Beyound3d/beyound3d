@@ -96,7 +96,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=800080&lines=Exploring+Technical;&center=true&size=30&duration=60000">
+    <img src="https://readme-typing-svg.herokuapp.com?color=800080&lines=Exploring+Technical;&center=true&size=30&duration=6000">
   </a>
 </h3>
 
