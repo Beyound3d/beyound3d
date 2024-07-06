@@ -168,12 +168,8 @@
   <h4 align="center">Library</h4>
   <h4 align="center">Database</h4>
     <h4 align="center">Tools & Platforms</h4>
-    <img src="https://github.com/Beyound3d/beyound3d/blob/main/icons/AWS-Dark.svg"/>
-- **Programming Languages**: JavaScript, Python, Java, TypeScript
-- **Web Development**: HTML, CSS, React, Node.js
-- **Database Management**: MySQL, MongoDB
-- **Version Control**: Git, GitHub
-- **Tools & Platforms**: Docker, AWS, Jenkins
+    <img src="https://github.com/Beyound3d/beyound3d/blob/main/icons/AWS-Dark.svg" width=48/>
+
 
 
 
