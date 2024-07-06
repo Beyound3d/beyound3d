@@ -11,7 +11,7 @@
 <br />
 <!-- about me -->
 <p align="center">
-      hi!   me A pixelated unicorn 
+     A pixelated unicorn 
   <br/>
    I recently did Bachelor's in Computer Science 💻 degree enclosed hereby().
   <br />
@@ -93,6 +93,51 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+technical👩‍💻+fields;&center=true&size=30">
   </a>
 </h3>
+
+# Introduction
+
+<div align="center">
+  <p id="intro-text"></p>
+</div>
+
+<style>
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: black; }
+  }
+  #intro-text {
+    display: inline-block;
+    border-right: 0.15em solid black;
+    white-space: nowrap;
+    overflow: hidden;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2em;
+    animation:
+      typing 60s steps(60, end),
+      blink-caret 0.75s step-end infinite;
+  }
+</style>
+
+<script>
+  const introduction = "Welcome to the a3path repository! This project aims to simplify path management in applications by providing an intuitive API for handling file and directory paths. Get started by checking out our documentation and examples. Happy coding!";
+  let i = 0;
+  const speed = 100; // Adjust speed to control typing speed
+
+  function typeWriter() {
+    if (i < introduction.length) {
+      document.getElementById("intro-text").innerHTML += introduction.charAt(i);
+      i++;
+      setTimeout(typeWriter, speed);
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", typeWriter);
+</script>
+
 
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/beyound3d/github-readme-stats) -->
 
