@@ -151,7 +151,14 @@
     |               Python                   |                                                                                           |
     |                   R                    |                                                                                           |
 
-## 🛠️ Skills
+  <h4 aligh="center">Ids:</h4>
+  <h4 align="center">Languages:</h4>
+  <h4 aligh="center">Designing Tools</h4>
+  <h4 aligh="center">Version Control</h4>
+  <h4 aligh="center">Frameworks</h4>
+  <h4 aligh="center">Library</h4>
+  <h4 aligh="center">Database</h4>
+    <h4 aligh="center">Tools & Platforms</h4>
 - **Programming Languages**: JavaScript, Python, Java, TypeScript
 - **Web Development**: HTML, CSS, React, Node.js
 - **Database Management**: MySQL, MongoDB
