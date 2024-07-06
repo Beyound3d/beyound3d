@@ -156,8 +156,13 @@
   <img src=""/>
   <img src=""/>
   <img src=""/>
+  <h4 align="center">Code Editor:</h4>
+  <img src="https://github.com/Beyound3d/beyound3d/blob/main/icons/VisualStudio-Dark.svg" width="48"/>
   <h4 align="center">Languages:</h4>
+  <img src="https://github.com/Beyound3d/beyound3d/blob/main/icons/Java-Dark.svg" width="48"/>
+  <img src="https://github.com/Beyound3d/beyound3d/blob/main/icons/HTML.svg" width="48"/>
   <h4 align="center">Designing Tools</h4>
+  <img src="https://github.com/Beyound3d/beyound3d/blob/main/icons/Figma-Dark.svg" width="48"/>
   <h4 align="center">Version Control</h4>
   <h4 align="center">Frameworks</h4>
   <h4 align="center">Library</h4>
