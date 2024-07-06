@@ -24,8 +24,9 @@
   <br />
    <a href="">
     <img src="https://github.com/Beyound3d/beyound3d/blob/main/cbse.png" alt="Sample Image" />
+     <p>10th</p>
   </a>
-  <p>10th</p>
+  
 </p>
 
 [![Sample Image](https://github.com/Beyound3d/beyound3d/blob/main/cs.gif)](https://github.com/Beyound3d/beyound3d/blob/main/Annexure-83.%20(BSc(H)-Computer%20Science)%20(2).pdf)
