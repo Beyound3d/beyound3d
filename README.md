@@ -114,10 +114,12 @@
 
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/beyound3d/github-readme-stats) -->
 
-# Awesome REPOs [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A curated list of subjects i learned and practise in Computer Science
 
 
+   <h1 align="center">Awesome REPOs [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)</h1>
+  <p align="center">A curated list of subjects i learned and practise in Computer Science</p>
+
+<div align="center">
     |      **Repository**      |                                       ** Instructions**                                               |
     | ------------------------ | ----------------------------------------------------------------------------------------------------- |
     |      pluspluscourse      |                     `git clone https://github.com/Beyound3d/pluspluscourse.git`                       |
@@ -128,6 +130,7 @@
     |     **[IT]**             |                                                                                                       |
     |  [DBMS]                  |                                                                                                       |
     |       SDLC-manager       |                     `git clone https://github.com/Beyound3d/SDLC-manager.git`                         |
+</div>
 
 
 # DSEP subjects:
