@@ -118,17 +118,16 @@
 > A curated list of subjects i learned and practise in Computer Science
 
 
-   > | Repository               | Instructions                                                                                          |
-   > | ------------------------ | ----------------------------------------------------------------------------------------------------- |
-   > | **[C++]**                | `cargo install zoxide --locked`                                                                       |
-   > | **[Java]**               | `brew install zoxide`                                                                                 |
-   > |[data structure]          | `asdf plugin add zoxide https://github.com/nyrst/asdf-zoxide.git` <br /> `asdf install zoxide latest` |
-   > | [Algorithims]            | `conda install -c conda-forge zoxide`                                                                 |
-   > | **[Operating System]**   | `port install zoxide`                                                                                 |
-   > | **[Computer Networks]**  | `nix-env -iA nixpkgs.zoxide`                                                                          |
-   > |     **[IT]**             |                                                                                                       |
-   > |  [DBMS]                  |                                                                                                       |
-   > |  [SDLC]|                 |                                                                                                       |
+    |      **Repository**      |                                       ** Instructions**                                               |
+    | ------------------------ | ----------------------------------------------------------------------------------------------------- |
+    |      pluspluscourse      |                     `git clone https://github.com/Beyound3d/pluspluscourse.git`                       |
+    |      coffee-Journey      |                     `git clone https://github.com/Beyound3d/coffee-Journey.git`                       |
+    |           DSA            |                               `https://github.com/Beyound3d/DSA.git`                                  | 
+    | **[Operating System]**   | `port install zoxide`                                                                                 |
+    | **[Computer Networks]**  | `nix-env -iA nixpkgs.zoxide`                                                                          |
+    |     **[IT]**             |                                                                                                       |
+    |  [DBMS]                  |                                                                                                       |
+    |       SDLC-manager       |                     `git clone https://github.com/Beyound3d/SDLC-manager.git`                         |
 
 
 # DSEP subjects:
