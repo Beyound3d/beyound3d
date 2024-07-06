@@ -117,15 +117,16 @@
  
    <h1 align="center">Awesome REPOs </h1>
   <p align="center">A curated list of subjects i learned and practise in Computer Science</p>
- [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+  [![Awesome](https://img.shields.io/badge/Awesome-%E2%AD%90-blueviolet.svg)](https://github.com/sindresorhus/awesome)
+
     <div align="center">
       
-    |      **Repository**      |                                       ** Instructions**                                               |
+    |      Repository          |                                            Instructions                                               |
     | ------------------------ | ----------------------------------------------------------------------------------------------------- |
-    |      pluspluscourse      |                     `git clone https://github.com/Beyound3d/pluspluscourse.git`                       |
-    |      coffee-Journey      |                     `git clone https://github.com/Beyound3d/coffee-Journey.git`                       |
+    |   **[pluspluscourse]**   |                     `git clone https://github.com/Beyound3d/pluspluscourse.git`                       |
+    |   88[coffee-Journey]**   |                     `git clone https://github.com/Beyound3d/coffee-Journey.git`                       |
     |           DSA            |                               `https://github.com/Beyound3d/DSA.git`                                  | 
-    | **[Operating System]**   | `port install zoxide`                                                                                 |
+    |       Operating System   | `port install zoxide`                                                                                 |
     | **[Computer Networks]**  | `nix-env -iA nixpkgs.zoxide`                                                                          |
     |     **[IT]**             |                                                                                                       |
     |  [DBMS]                  |                                                                                                       |
