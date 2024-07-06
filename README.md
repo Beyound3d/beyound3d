@@ -125,16 +125,15 @@
 
     
       
-    |         Repository       |                                            Instructions                                               |
-    | ------------------------ | ----------------------------------------------------------------------------------------------------- |
-    |      pluspluscourse      |                     `git clone https://github.com/Beyound3d/pluspluscourse.git`                       |
-    |      coffee-Journey      |                     `git clone https://github.com/Beyound3d/coffee-Journey.git`                       |
-    |           DSA            |                               `https://github.com/Beyound3d/DSA.git`                                  | 
-    |       Operating System   | `port install zoxide`                                                                                 |
-    | **[Computer Networks]**  | `nix-env -iA nixpkgs.zoxide`                                                                          |
-    |     **[IT]**             |                                                                                                       |
-    |  [DBMS]                  |                                                                                                       |
-    |       SDLC-manager       |                     `git clone https://github.com/Beyound3d/SDLC-manager.git`                         |
+    |         Repository       |                                            Instructions                                             |
+    | ------------------------ | --------------------------------------------------------------------------------------------------- |
+    |      pluspluscourse      |                     git clone https://github.com/Beyound3d/pluspluscourse.git                       |
+    |      coffee-Journey      |                     git clone https://github.com/Beyound3d/coffee-Journey.git                       |
+    |           DSA            |                               https://github.com/Beyound3d/DSA.git                                  | 
+    |     NEtLoreHubRouter     |                          https://github.com/Beyound3d/NetLoreHubRouter.git                          |
+    |      ProcureSecure       |                          https://github.com/Beyound3d/ProcureSecure.git                             |
+    |  [DBMS]                  |                                                                                                     |
+    |       SDLC-manager       |                     `git clone https://github.com/Beyound3d/SDLC-manager.git`                       |
     
 
 
