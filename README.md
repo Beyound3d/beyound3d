@@ -88,21 +88,21 @@
 </div>
 -->
 
+<!-- <h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring;&center=true&size=30">
+  </a>
+</h3> -->
+
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+technical👩‍💻+fields;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?color=800080&lines=Exploring+Technical;&center=true&size=30&duration=60000">
   </a>
 </h3>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=800080&lines=Welcome+to+my+GitHub!;Exploring+technical+fields👩‍💻;&center=true&size=30&duration=60000">
-  </a>
-</h3>
-
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Exploring+technical👩‍💻+fields;&center=true&size=30&color=8A2BE2&duration=4000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=👩‍💻+fields;&center=true&size=30&color=8A2BE2&duration=4000">
   </a>
 </h3>
 
