@@ -152,7 +152,7 @@
     |                   R                    |                                                                                           |
 
   <h4 align="center">Ids:</h4>
-  <img src="https://github.com/Beyound3d/beyound3d/blob/main/icons/AndroidStudio-Dark.svg"/>
+  <img src="https://github.com/Beyound3d/beyound3d/blob/main/icons/AndroidStudio-Dark.svg" width="48"/>
   <img src=""/>
   <img src=""/>
   <img src=""/>
