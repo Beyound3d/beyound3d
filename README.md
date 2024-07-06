@@ -135,22 +135,21 @@
     |  [DBMS]                  |                                                                                                     |
     |       SDLC-manager       |                     `git clone https://github.com/Beyound3d/SDLC-manager.git`                       |
     
-
-
-# DSEP subjects:
-   > | Repository                             | Instructions                                                                                          |
-   > | ------------------------               | ----------------------------------------------------------------------------------------------------- |
-   > |data analysis and visulization          | `cargo install zoxide --locked`                                                                       |
-   > | sustem programming                     | `brew install zoxide`                                                                                 |
-   > |combinatorial optimization              | `asdf plugin add zoxide https://github.com/nyrst/asdf-zoxide.git` <br /> `asdf install zoxide latest` |
-   > | digital image processing               | `conda install -c conda-forge zoxide`                                                                 |
-   > | information security                   | `port install zoxide`                                                                                 |
-   > | advanced algorithims                   | `nix-env -iA nixpkgs.zoxide`                                                                          |
-   > |     unix network programming           |                                                                                                       |
-   > |  web design                            |                                                                                                       |
-   > |  android                               |                                                                                                       |
-   > | python                                 |                                                                                                       |
-   > | R                                      |                                                                                                       |
+ <h3 align="center">DSEP</h3>
+ 
+    |                Topic                   |                                              Projects                                                 |
+    | -------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+    |     Data Analysis and Visulization     | `cargo install zoxide --locked`                                                                       |
+    |           System Programming           | `brew install zoxide`                                                                                 |
+    |       Combinatorial Optimization       | `asdf plugin add zoxide https://github.com/nyrst/asdf-zoxide.git` <br /> `asdf install zoxide latest` |
+    |        Digital image Processing        | `conda install -c conda-forge zoxide`                                                                 |
+    |         Information Security           | `port install zoxide`                                                                                 |
+    |         Advanced Algorithims           | `nix-env -iA nixpkgs.zoxide`                                                                          |
+    |       Unix network programming         |                                                                                                       |
+    |             Web design                 |                                                                                                       |
+    |              Android                   |                                                                                                       |
+    |               Python                   |                                                                                                       |
+    |                   R                    |                                                                                                       |
 
 ## 🛠️ Skills
 - **Programming Languages**: JavaScript, Python, Java, TypeScript
