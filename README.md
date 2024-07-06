@@ -137,19 +137,19 @@
     
  <h3 align="center">DSEP</h3>
  
-    |                Topic                   |                                              Projects                                                 |
-    | -------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-    |     Data Analysis and Visulization     | `cargo install zoxide --locked`                                                                       |
-    |           System Programming           | `brew install zoxide`                                                                                 |
-    |       Combinatorial Optimization       | `asdf plugin add zoxide https://github.com/nyrst/asdf-zoxide.git` <br /> `asdf install zoxide latest` |
-    |        Digital image Processing        | `conda install -c conda-forge zoxide`                                                                 |
-    |         Information Security           | `port install zoxide`                                                                                 |
-    |         Advanced Algorithims           | `nix-env -iA nixpkgs.zoxide`                                                                          |
-    |       Unix network programming         |                                                                                                       |
-    |             Web design                 |                                                                                                       |
-    |              Android                   |                                                                                                       |
-    |               Python                   |                                                                                                       |
-    |                   R                    |                                                                                                       |
+    |                Topic                   |                                  Projects                                                 |
+    | -------------------------------------- | ----------------------------------------------------------------------------------------- |
+    |     Data Analysis and Visulization     | `cargo install zoxide --locked`                                                           |
+    |           System Programming           | `brew install zoxide`                                                                     |
+    |       Combinatorial Optimization       | `asdf plugin add zoxide https://github.com/nyrst/asdf-zoxide.git` <br /> `asdf install zox|
+    |        Digital image Processing        | `conda install -c conda-forge zoxide`                                                     |
+    |         Information Security           | `port install zoxide`                                                                     |
+    |         Advanced Algorithims           | `nix-env -iA nixpkgs.zoxide`                                                              |
+    |       Unix network programming         |                                                                                           |
+    |             Web design                 |                                                                                           |
+    |              Android                   |                                                                                           |
+    |               Python                   |                                                                                           |
+    |                   R                    |                                                                                           |
 
 ## 🛠️ Skills
 - **Programming Languages**: JavaScript, Python, Java, TypeScript
