@@ -24,7 +24,7 @@
   <br />
    <a href="">
     <img src="https://github.com/Beyound3d/beyound3d/blob/main/cbse.png" alt="Sample Image" />
-     <p>10th</p>
+     <p align="center">10th</p>
   </a>
   
 </p>
