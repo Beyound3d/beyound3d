@@ -24,7 +24,7 @@
   <br />
   
   <div align="center">
-   <a href="">
+   <a href="https://github.com/Beyound3d/beyound3d/blob/main/10th.jpg">
     <img src="https://github.com/Beyound3d/beyound3d/blob/main/cbse.png" alt="Sample Image" />
      <p>10th</p>
   </a>
@@ -33,7 +33,7 @@
   <br/>
   
   <div align="center">
-   <a href="">
+   <a href="https://github.com/Beyound3d/beyound3d/blob/main/12th.jpg">
     <img src="https://github.com/Beyound3d/beyound3d/blob/main/cbse.png" alt="Sample Image" />
      <p>12th</p>
   </a>
