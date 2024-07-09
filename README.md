@@ -165,7 +165,24 @@
   <img src="https://github.com/Beyound3d/beyound3d/blob/main/icons/Java-Dark.svg" width="48"/>
   <img src="https://github.com/Beyound3d/beyound3d/blob/main/icons/HTML.svg" width="48"/>
   <h4 align="center">Designing Tools</h4>
-  <img src="https://github.com/Beyound3d/beyound3d/blob/main/icons/Figma-Dark.svg" width="48"/>
+  <!-- Figma Icon -->
+<img src="https://path-to-your-icons/figma-icon.png" alt="Figma" width="50" height="50">
+
+<!-- Sketch Icon -->
+<img src="https://path-to-your-icons/sketch-icon.png" alt="Sketch" width="50" height="50">
+
+<!-- Adobe XD Icon -->
+<img src="https://path-to-your-icons/adobe-xd-icon.png" alt="Adobe XD" width="50" height="50">
+
+<!-- InVision Studio Icon -->
+<img src="https://path-to-your-icons/invision-studio-icon.png" alt="InVision Studio" width="50" height="50">
+
+<!-- Adobe Illustrator Icon -->
+<img src="https://path-to-your-icons/adobe-illustrator-icon.png" alt="Adobe Illustrator" width="50" height="50">
+
+<!-- FlowMapp Icon -->
+<img src="https://path-to-your-icons/flowmapp-icon.png" alt="FlowMapp" width="50" height="50">
+
   <h4 align="center">Version Control</h4>
   <h4 align="center">Frameworks</h4>
   <h4 align="center">Library</h4>
