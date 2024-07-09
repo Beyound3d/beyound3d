@@ -190,6 +190,16 @@
 </p>
 
   <h4 align="center">Version Control</h4>
+  <p align = "center">
+    <!-- git -->
+    <img src="https://github.com/Beyound3d/beyound3d/blob/main/versionControl/git.png" width="50" height="50" >
+    <!-- mercurial -->
+     <img src="https://github.com/Beyound3d/beyound3d/blob/main/versionControl/mercurial.png" width="50" height="50" >
+    <!-- perforce helix core -->
+     <img src="https://github.com/Beyound3d/beyound3d/blob/main/versionControl/perforce%20helix%20core.png" width="50" height="50" >
+    <!-- azure repos -->
+     <img src="https://github.com/Beyound3d/beyound3d/blob/main/versionControl/azure%20repos.png" width="50" height="50" >
+  </p>
   <h4 align="center">Frameworks</h4>
   <h4 align="center">Library</h4>
   <h4 align="center">Database</h4>
