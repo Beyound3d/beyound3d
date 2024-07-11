@@ -232,7 +232,7 @@
   <h4 align="center">Database</h4>
   <p align="center">
     <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="50" height="50">
-<img src="" alt="MySQL" width="50" height="50">
+<img src="https://github.com/Beyound3d/beyound3d/blob/main/database/myql.png" alt="MySQL" width="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50">
   </p>
   <h4 align="center">Tools & Platforms</h4>
