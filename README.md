@@ -24,7 +24,7 @@
   <br />
   
   <div align="center">
-   <a href="">
+   <a href="https://github.com/Beyound3d/beyound3d/blob/main/10th.jpg">
     <img src="https://github.com/Beyound3d/beyound3d/blob/main/cbse.png" alt="Sample Image" />
      <p>10th</p>
   </a>
@@ -33,7 +33,7 @@
   <br/>
   
   <div align="center">
-   <a href="">
+   <a href="https://github.com/Beyound3d/beyound3d/blob/main/12th.jpg">
     <img src="https://github.com/Beyound3d/beyound3d/blob/main/cbse.png" alt="Sample Image" />
      <p>12th</p>
   </a>
@@ -160,7 +160,20 @@
   <img src=""/>
   <img src=""/>
   <h4 align="center">Code Editor:</h4>
-  <img src="https://github.com/Beyound3d/beyound3d/blob/main/icons/VisualStudio-Dark.svg" width="48"/>
+
+  <p align="center">
+  <img src="" width="50" height="50">
+   <img src="" width="50" height="50">
+    <img src="" width="50" height="50">
+     <img src="" width="50" height="50">
+      <img src="" width="50" height="50">
+       <img src="" width="50" height="50">
+        <img src="" width="50" height="50">
+         <img src="" width="50" height="50">
+          <img src="" width="50" height="50">
+           <img src="" width="50" height="50">
+  </p>
+  
   <h4 align="center">Languages:</h4>
   <img src="https://github.com/Beyound3d/beyound3d/blob/main/icons/Java-Dark.svg" width="48"/>
   <img src="https://github.com/Beyound3d/beyound3d/blob/main/icons/HTML.svg" width="48"/>
@@ -190,6 +203,16 @@
 </p>
 
   <h4 align="center">Version Control</h4>
+  <p align = "center">
+    <!-- git -->
+    <img src="https://github.com/Beyound3d/beyound3d/blob/main/versionControl/git.png" width="50" height="50" >
+    <!-- mercurial -->
+     <img src="https://github.com/Beyound3d/beyound3d/blob/main/versionControl/mercurial.png" width="50" height="50" >
+    <!-- perforce helix core -->
+     <img src="https://github.com/Beyound3d/beyound3d/blob/main/versionControl/perforce%20helix%20core.png" width="50" height="50" >
+    <!-- azure repos -->
+     <img src="https://github.com/Beyound3d/beyound3d/blob/main/versionControl/azure%20repos.png" width="50" height="50" >
+  </p>
   <h4 align="center">Frameworks</h4>
   <h4 align="center">Library</h4>
   <h4 align="center">Database</h4>
