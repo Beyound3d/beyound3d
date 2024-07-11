@@ -154,12 +154,8 @@
     |               Python                   |                                                                                           |
     |                   R                    |                                                                                           |
 
-  <h4 align="center">Ids:</h4>
-  <img src="https://github.com/Beyound3d/beyound3d/blob/main/icons/AndroidStudio-Dark.svg" width="48"/>
-  <img src=""/>
-  <img src=""/>
-  <img src=""/>
-  <h4 align="center">Code Editor:</h4>
+  
+  <h4 align="center">Code Editor and IDEs:</h4>
 
   <p align="center">
           <img src="https://github.com/Beyound3d/beyound3d/blob/main/codeEditor/intelliJ.png" width="50" height="50">
@@ -181,9 +177,21 @@
   </p>
   
   <h4 align="center">Languages:</h4>
-  <img src="https://github.com/Beyound3d/beyound3d/blob/main/icons/Java-Dark.svg" width="48"/>
-  <img src="https://github.com/Beyound3d/beyound3d/blob/main/icons/HTML.svg" width="48"/>
-  <h4 align="center">Designing Tools</h4>
+   <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>
+
+
+<h4 align="center">Designing Tools</h4>
   <p align="center">
   <!-- Figma Icon -->
 <img src="https://github.com/Beyound3d/beyound3d/blob/main/designingTool/figma.jpg" alt="Figma" width="50" height="50">
@@ -224,32 +232,11 @@
   <h4 align="center">Database</h4>
   <p align="center">
     <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="50" height="50">
-<img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="MySQL" width="50" height="50">
+<img src="" alt="MySQL" width="50" height="50">
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" height="50">
   </p>
   <h4 align="center">Tools & Platforms</h4>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</p>
-
-
-
-
-
-
-
-
-
-
+ 
 <p align="center">I am always eager to learn new technologies and work on exciting projects. If you have any suggestions, collaboration ideas, or just want to chat about tech, feel free to reach out!</p>
 
 
