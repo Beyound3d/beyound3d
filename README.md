@@ -172,12 +172,12 @@
            <img src="https://github.com/Beyound3d/beyound3d/blob/main/codeEditor/pycharm.png" width="50" height="50">
            <img src="https://github.com/Beyound3d/beyound3d/blob/main/codeEditor/sublime.jpg" width="50" height="50">
            <img src="https://github.com/Beyound3d/beyound3d/blob/main/codeEditor/vim.png" width="50" height="50">
-           <img src="" width="50" height="50">
-           <img src="" width="50" height="50">
-           <img src="" width="50" height="50">
-           <img src="" width="50" height="50">
-           <img src="" width="50" height="50">
-           <img src="" width="50" height="50">
+           <img src="https://github.com/Beyound3d/beyound3d/blob/main/codeEditor/visual%20studio.png" width="50" height="50">
+           <img src="https://github.com/Beyound3d/beyound3d/blob/main/codeEditor/netbeans.webp" width="50" height="50">
+           <img src="https://github.com/Beyound3d/beyound3d/blob/main/codeEditor/kawa%20ide.png" width="50" height="50">
+           <img src="https://github.com/Beyound3d/beyound3d/blob/main/codeEditor/jdeveloper.png" width="50" height="50">
+           <img src="https://github.com/Beyound3d/beyound3d/blob/main/codeEditor/jcreator.png" width="50" height="50">
+           <img src="https://github.com/Beyound3d/beyound3d/blob/main/codeEditor/eclipse.png" width="50" height="50">
   </p>
   
   <h4 align="center">Languages:</h4>
