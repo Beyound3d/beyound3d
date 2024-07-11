@@ -171,7 +171,7 @@
         <img src="https://github.com/Beyound3d/beyound3d/blob/main/codeEditor/notepad%2B%2B.png" width="50" height="50">
          <img src="https://github.com/Beyound3d/beyound3d/blob/main/codeEditor/pycharm.png" width="50" height="50">
           <img src="https://github.com/Beyound3d/beyound3d/blob/main/codeEditor/sublime.jpg" width="50" height="50">
-           <img src="https://github.com/Beyound3d/beyound3d/blob/main/codeEditor/sublime.jpg" width="50" height="50">
+           <img src="https://github.com/Beyound3d/beyound3d/blob/main/codeEditor/vim.png" width="50" height="50">
   </p>
   
   <h4 align="center">Languages:</h4>
