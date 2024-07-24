@@ -23,7 +23,16 @@
   Serching for a good package job
   <br />
   
-  <div align="center">
+ 
+  
+</p>
+
+<!-- [![Sample Image](https://github.com/Beyound3d/beyound3d/blob/main/cs.gif)](https://github.com/Beyound3d/beyound3d/blob/main/Annexure-83.%20(BSc(H)-Computer%20Science)%20(2).pdf) -->
+<div>
+  <a href="https://github.com/Beyound3d/beyound3d/blob/main/Annexure-83.%20(BSc(H)-Computer%20Science)%20(2).pdf">
+    <img src="https://github.com/Beyound3d/beyound3d/blob/main/cs.gif" alt="Description of Image" align="left">
+</a>
+   <div align="center">
    <a href="https://github.com/Beyound3d/beyound3d/blob/main/10th.jpg">
     <img src="https://github.com/Beyound3d/beyound3d/blob/main/cbse.png" alt="Sample Image" />
      <p>10th</p>
@@ -38,19 +47,12 @@
      <p>12th</p>
   </a>
   </div>
-  
-</p>
-
-<!-- [![Sample Image](https://github.com/Beyound3d/beyound3d/blob/main/cs.gif)](https://github.com/Beyound3d/beyound3d/blob/main/Annexure-83.%20(BSc(H)-Computer%20Science)%20(2).pdf) -->
-
-<a href="https://github.com/Beyound3d/beyound3d/blob/main/Annexure-83.%20(BSc(H)-Computer%20Science)%20(2).pdf">
-    <img src="https://github.com/Beyound3d/beyound3d/blob/main/cs.gif" alt="Description of Image" align="left">
-</a>
 
 <a href="https://github.com/Beyound3d/A3path">
 <img src="https://github.com/Beyound3d/beyound3d/blob/main/assets/readme.gif" align="right" width="400" />
 </a>
 
+</div>
 <!-- [![Tanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beyound3d)](https://github.com/Beyound3d/github-readme-stats) -->
 <!-- ![Beyound3d's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyound3d&show_icons=true&theme=radical) -->
 
