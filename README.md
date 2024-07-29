@@ -7,13 +7,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Tanu!;&center=true&size=30">
   </a>
 </h1>
-![My first design 1](https://github.com/Beyound3d/3D-collection/assets/129869652/71a550d9-8e5b-4ea3-afba-f689ead87f71)
+
 <br />
 <!-- about me -->
 <p align="center">
      A pixelated unicorn 
   <br/>
-   I recently did Bachelor's in Computer Science 💻 degree enclosed ![hearby](https://github.com/beyound3d/beyound3d/blob/main/bsccsdegree.pdf)
+   I recently did Bachelor's in Computer Science 💻 degree enclosed hearby
+  <a href="https://drive.google.com/file/d/1YqWlXCkVc_NhfqtilYjyqH6Ypmo9SpRv/view?usp=sharing">
+  <img src ="https://github.com/beyound3d/beyound3d/blob/main/scrolldegree.gif" width="50"?>
+  </a>
   <br />
   <br />
   🎓 Learner, Coder👩‍💻 and Game Lover.
