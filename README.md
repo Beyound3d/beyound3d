@@ -13,7 +13,7 @@
 <p align="center">
      A pixelated unicorn 
   <br/>
-   I recently did Bachelor's in Computer Science 💻 degree enclosed [hereby](https://github.com/beyound3d/beyound3d/blob/main/bsccsdegree.pdf)
+   I recently did Bachelor's in Computer Science 💻 degree enclosed ![hearby](https://github.com/beyound3d/beyound3d/blob/main/bsccsdegree.pdf)
   <br />
   <br />
   🎓 Learner, Coder👩‍💻 and Game Lover.
