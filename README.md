@@ -14,6 +14,7 @@
      A pixelated unicorn 
   <br/>
    I recently did Bachelor's in Computer Science 💻 degree enclosed ![hearby](https://github.com/beyound3d/beyound3d/blob/main/bsccsdegree.pdf)
+  ![My first design 1](https://github.com/Beyound3d/3D-collection/assets/129869652/71a550d9-8e5b-4ea3-afba-f689ead87f71)
   <br />
   <br />
   🎓 Learner, Coder👩‍💻 and Game Lover.
