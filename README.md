@@ -15,7 +15,7 @@
   <br/>
    I recently did Bachelor's in Computer Science 💻 degree enclosed hearby
   <a href="https://drive.google.com/file/d/1YqWlXCkVc_NhfqtilYjyqH6Ypmo9SpRv/view?usp=sharing">
-  <img src ="https://github.com/beyound3d/beyound3d/blob/main/scrollpng.webp" width="50"?>
+  <img src ="https://github.com/beyound3d/beyound3d/blob/main/scrollpng.webp" width="50" height="80"?>
   </a>
   <br />
   <br />
