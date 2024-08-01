@@ -33,7 +33,7 @@
 <!-- [![Sample Image](https://github.com/Beyound3d/beyound3d/blob/main/cs.gif)](https://github.com/Beyound3d/beyound3d/blob/main/Annexure-83.%20(BSc(H)-Computer%20Science)%20(2).pdf) -->
 <div>
   <a href="https://github.com/Beyound3d/beyound3d/blob/main/Annexure-83.%20(BSc(H)-Computer%20Science)%20(2).pdf">
-    <img src="https://github.com/Beyound3d/beyound3d/blob/main/cs.gif" alt="Description of Image" align="left">
+    <img src="https://github.com/Beyound3d/beyound3d/blob/main/cs.gif" alt="Description of Image" align="left width="50">
 </a>
    <div align="center">
    <a href="https://github.com/Beyound3d/beyound3d/blob/main/10th.jpg">
