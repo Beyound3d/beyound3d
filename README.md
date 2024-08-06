@@ -52,7 +52,7 @@
   </div>
 
 <a href="https://github.com/Beyound3d/A3path">
-<img src="https://github.com/Beyound3d/beyound3d/blob/main/assets/readme.gif" align="right" width="400" />
+<img src="https://github.com/beyound3d/beyound3d/blob/main/headphone.png" align="right" width="400" />
 </a>
 
 </div>
